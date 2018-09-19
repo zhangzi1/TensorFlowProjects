@@ -1,0 +1,7 @@
+
+__pycache__
+.idea
+.DS_Store
+
+Gen_pic/
+MNIST_data/
